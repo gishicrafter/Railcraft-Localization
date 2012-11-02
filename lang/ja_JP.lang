@@ -144,8 +144,8 @@ obsolete=Obsolete
 ore.saltpeter=硝酸カリウム鉱石
 ore.sulfur=硫黄鉱石
 
-part.circuit.controller=コントローラー回路
-part.circuit.receiver=レシーバ回路
+part.circuit.controller=制御回路
+part.circuit.receiver=受信回路
 part.gear.gold.plate=金張りの歯車
 part.gear.iron=鉄の歯車
 part.gear.steel=鋼鉄の歯車
